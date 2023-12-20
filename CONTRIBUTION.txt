@@ -1,0 +1,3 @@
+This document gives the contribution of each author:
+
+	Both authors, Pierre Beaulieu and Jarod Lévy, have equally contributed to the comprehensive development and execution of the experiments, as well as the meticulous preparation and writing of this report, thereby sharing equal credit for the work presented.
